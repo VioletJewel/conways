@@ -90,7 +90,7 @@ public class ConwayPanel extends JPanel {
         startX = 0;
         startY = 0;
         zoom = 15;
-        cellNum = 200;
+        cellNum = 100;
         
         cells = new boolean[cellNum][cellNum];
         
